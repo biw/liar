@@ -3,6 +3,12 @@
 __Still a WIP.__ Simple Go middleware that serves different HTTP routes to clients
 if they are a bot. It currently only uses the client's user agent.
 
+## Installation
+
+```
+go get github.com/719ben/liar
+```
+
 ## Example
 
 ```go
